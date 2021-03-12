@@ -1,0 +1,16 @@
+from PIL import Image
+im = Image.open("inventario.png")
+"""print(im.filename)
+print(im.format)
+print(im.mode)
+print(im.size)
+print("----------",im.info)
+print(im.palette)
+im.thumbnail((90,90))
+im.save("img6.jpg")
+im = Image.open("img6.jpg")
+print(im.format)"""
+r, g, b = im.split()
+im = Image.merge("RGB",(g,b,r))
+im.show()
+im.save("inventarado.png")
