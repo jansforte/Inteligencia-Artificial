@@ -1,2 +1,0 @@
-opyrator
-git+https://github.com/idealo/image-super-resolution
