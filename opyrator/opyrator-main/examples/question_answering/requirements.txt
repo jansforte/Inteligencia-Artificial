@@ -1,0 +1,3 @@
+opyrator
+torch
+transformers

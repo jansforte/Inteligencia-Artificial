@@ -1,0 +1,5 @@
+     Orden	Frec.absoluta 	 Frec.normalizada 
+     1.	de 	9,999,518 	 65545.55 
+     2.	la	6,277,560 	 41148.59 
+     3.	co	6,560 	 41148.59 
+     4.	con	560 	 41148.59 
